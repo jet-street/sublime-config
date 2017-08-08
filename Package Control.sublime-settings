@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"Git",
+		"GitGutter",
+		"Indent Size",
+		"JavaScriptNext - ES6 Syntax",
+		"Monochrome Color Schemes",
+		"MoveTab",
+		"OpenGL Shading Language (GLSL)",
+		"Package Control",
+		"Sass",
+		"Seti_UI",
+		"ShaderLanguages",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Theme - SodaSeti",
+		"TypeScript"
+	]
+}

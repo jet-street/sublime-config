@@ -1,0 +1,47 @@
+{
+	"binary_file_patterns":
+	[
+		".svg",
+		"svg",
+		".map"
+	],
+	"caret_extra_width": 2,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Colonoscopy (SL).tmTheme",
+	"draw_centered": true,
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		".svg",
+		"svg",
+		".map"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"deprecated",
+		"node_modules",
+		"serve",
+		"bower_components"
+	],
+	"font_options":
+	[
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+	"use_tab_stops": true
+}
